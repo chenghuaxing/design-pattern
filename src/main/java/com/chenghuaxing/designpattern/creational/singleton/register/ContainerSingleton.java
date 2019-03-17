@@ -1,4 +1,4 @@
-package com.chenghuaxing.designpattern.creational.singleton;
+package com.chenghuaxing.designpattern.creational.singleton.register;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

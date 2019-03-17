@@ -17,10 +17,6 @@ public class StaticInnerClassSingleton {
 
     }
 
-    /**
-     * 调用该方法时才会初始化静态内部类
-     * @return
-     */
     private static StaticInnerClassSingleton getInstance() {
         return StaticInnerClass.staticInnerClassSingleton;
     }

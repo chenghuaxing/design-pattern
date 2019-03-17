@@ -43,7 +43,7 @@ public class HungrySingleton implements Serializable, Cloneable {
     }
 
     /**
-     * 重新克隆，防止克隆破坏单例
+     * 重写克隆方法，防止克隆破坏单例
      * @return 返回单例对象
      * @throws CloneNotSupportedException
      */

@@ -1,7 +1,7 @@
 package com.chenghuaxing.designpattern.creational.singleton;
 
 /**
- *
+ * 每个线程独立
  * @author cheng.huaxing
  * @date 2019-03-11
  */
